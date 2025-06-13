@@ -24,3 +24,11 @@
 
 ## ライセンス (License)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+---
+
+## 理論の完全な記録 (Complete Record of the Theory)
+
+以下のPDFファイルは、各プラットフォームで公開された記事の初版を、このリポジトリのタイムスタンプと共に固定したものです。これにより、リンク先の元記事が将来編集された場合でも、このリポジトリが初版の内容を証明します。
+
+* **[日本語版 (Note) - 初版PDF](./shutter-tube-theory-jp.pdf)**
+* **[English Version (Medium) - First Edition PDF](./shutter-tube-theory-en.pdf)**
